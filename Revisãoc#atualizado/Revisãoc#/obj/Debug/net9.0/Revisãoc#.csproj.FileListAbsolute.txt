@@ -1,0 +1,14 @@
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\obj\Debug\net9.0\Revisãoc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\obj\Debug\net9.0\Revisãoc#.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\obj\Debug\net9.0\Revisãoc#.AssemblyInfo.cs
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\obj\Debug\net9.0\Revisãoc#.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\bin\Debug\net9.0\Revisãoc#.exe
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\bin\Debug\net9.0\Revisãoc#.deps.json
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\bin\Debug\net9.0\Revisãoc#.runtimeconfig.json
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\bin\Debug\net9.0\Revisãoc#.dll
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\bin\Debug\net9.0\Revisãoc#.pdb
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\obj\Debug\net9.0\Revisãoc#.dll
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\obj\Debug\net9.0\refint\Revisãoc#.dll
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\obj\Debug\net9.0\Revisãoc#.pdb
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\obj\Debug\net9.0\Revisãoc#.genruntimeconfig.cache
+C:\Users\tarde.cetafest\source\repos\Revisãoc#\Revisãoc#\obj\Debug\net9.0\ref\Revisãoc#.dll
